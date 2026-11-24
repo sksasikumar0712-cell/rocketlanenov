@@ -1,0 +1,1 @@
+import {mkdir,copyFile,readFile} from 'node:fs/promises';import {validate} from './validate.mjs';validate(JSON.parse(await readFile('jobs.json','utf8')));await mkdir('dist',{recursive:true});for(const file of ['index.html','app.js','jobs.json'])await copyFile(file,'dist/'+file);console.log('Static site built in dist.');
