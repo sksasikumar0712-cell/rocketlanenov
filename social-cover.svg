@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0c172d"/><stop offset="1" stop-color="#172f61"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5ea8ff"/><stop offset="1" stop-color="#2766ff"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#b9d3ff" stroke-opacity=".07"/></pattern></defs>
 <rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#grid)"/>
-<circle cx="1100" cy="210" r="304" fill="none" stroke="#69a3ff" stroke-opacity=".12" stroke-width="2"/><circle cx="1100" cy="210" r="246" fill="none" stroke="#69a3ff" stroke-opacity=".12" stroke-width="2"/>
-<path d="M858 124H1132V398H858Z" fill="#14284e" stroke="#416ab0" stroke-width="1.5" opacity=".78" transform="rotate(-12 995 261)"/>
-<rect x="866" y="136" width="267" height="268" rx="32" fill="#1c3767" stroke="#5383c6" stroke-opacity=".65" stroke-width="2"/>
-<path d="M916 208h52l54 61-54 61h-52l54-61z" fill="#f3f7ff"/><path d="M985 208h43l54 61-54 61h-43l54-61z" fill="url(#accent)"/>
-<rect x="899" y="366" width="203" height="6" rx="3" fill="#7395c5" opacity=".35"/>
+<g aria-hidden="true">
+<rect x="846" y="153" width="280" height="226" rx="24" fill="#1b345e" stroke="#5e87c5" transform="rotate(-8 986 266)"/>
+<rect x="864" y="157" width="262" height="234" rx="22" fill="#f4f8ff"/>
+<rect x="890" y="183" width="110" height="13" rx="6.5" fill="#a7c6f4"/>
+<rect x="890" y="216" width="208" height="15" rx="7.5" fill="#1b355f"/>
+<rect x="890" y="246" width="159" height="10" rx="5" fill="#9eb2ce"/>
+<rect x="890" y="271" width="186" height="10" rx="5" fill="#9eb2ce"/>
+<path d="M890 303H1100" stroke="#d0dced"/>
+<rect x="890" y="324" width="113" height="39" rx="8" fill="#2766cc"/>
+<text x="946.5" y="349" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="15" font-weight="700" fill="#ffffff">View role</text>
+<circle cx="1090" cy="347" r="12" fill="#e1ebfa"/><path d="m1084 347 4 4 7-8" stroke="#2766cc" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</g>
 <rect x="72" y="67" width="10" height="10" rx="2" fill="#70b2ff"/><text x="96" y="78" fill="#d6e4ff" font-family="DejaVu Sans,sans-serif" font-size="21" font-weight="700" letter-spacing="1">PRODUCTWITHSASI</text>
 <rect x="72" y="127" width="260" height="44" rx="22" fill="#223c68" stroke="#527fba"/><text x="94" y="155" fill="#b9d9ff" font-family="DejaVu Sans,sans-serif" font-size="17" font-weight="700" letter-spacing="1">TECH &amp; SAAS CAREERS</text>
 <text x="65" y="278" fill="#ffffff" font-family="DejaVu Sans,sans-serif" font-size="96" font-weight="700" letter-spacing="-4">Rocketlane</text>
@@ -13,5 +20,5 @@
 <text x="73" y="431" fill="#d4e2f7" font-family="DejaVu Sans,sans-serif" font-size="27">Explore roles in Chennai &amp; beyond.</text>
 <path d="M72 486H1128" stroke="#7395c5" stroke-opacity=".4"/>
 <rect x="72" y="514" width="272" height="55" rx="10" fill="#f5f9ff"/><text x="95" y="550" font-family="DejaVu Sans,sans-serif" font-size="21" font-weight="700" fill="#14284e">Explore openings</text><path d="M302 532h15v15m0-15-16 16" stroke="#2766cc" stroke-width="3" stroke-linecap="round" fill="none"/>
-<text x="1128" y="548" fill="#c2d5f5" font-family="DejaVu Sans,sans-serif" font-size="19" text-anchor="end">Direct links to official applications</text>
+<text x="1128" y="548" fill="#c2d5f5" font-family="DejaVu Sans,sans-serif" font-size="19" text-anchor="end">Independent directory · Direct application links</text>
 </svg>

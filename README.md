@@ -28,4 +28,6 @@ The refresh script reads public card links, extracts their metadata, validates d
 https://careers.kula.ai/rocketlane
 
 ## Social link preview
-The dedicated 1200 × 630 cover is generated from `social-cover.svg` as `dist/rocketlane-social-cover-v1.png`. Open Graph and Twitter metadata explicitly reference it, not the curator profile photo. The build uses `SITE_URL`, then `VERCEL_PROJECT_PRODUCTION_URL`, then `VERCEL_URL` for the public HTTPS origin. Set `SITE_URL` if using a custom domain. Run `npm install` before building locally. Social platforms may cache older previews; refresh or re-scrape after deploying.
+The dedicated 1200 × 630 cover is generated from `social-cover.svg` as `dist/rocketlane-social-cover-v2.png`. Open Graph and Twitter metadata explicitly reference it, not the curator profile photo. The build uses `SITE_URL`, then `VERCEL_PROJECT_PRODUCTION_URL`, then `VERCEL_URL` for the public HTTPS origin. Set `SITE_URL` if using a custom domain. Run `npm install` before building locally. Social platforms may cache older previews; refresh or re-scrape after deploying.
+
+The company name is shown as plain text for identification only. No employer logo or logo-like emblem is used in the directory or social cover.
